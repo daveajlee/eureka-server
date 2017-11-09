@@ -6,3 +6,9 @@ The contents are largely based on the Service Registry and Discovery Tutorial fr
 
 The additional features are:
 * Dockerfile to allow Docker deployment.
+
+The Eureka Server can be started either as a normal JAR or as a docker container.
+
+Running the Eureka Server as a Docker container:
+* docker build -t tagname .
+* docker run -dp 8761:8761 tagname
