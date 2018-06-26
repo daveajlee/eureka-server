@@ -12,3 +12,5 @@ The Eureka Server can be started either as a normal JAR or as a docker container
 Running the Eureka Server as a Docker container:
 * docker build -t tagname .
 * docker run -dp 8761:8761 tagname
+
+Alternatively the Docker image can be pulled from this url: https://hub.docker.com/r/daveajlee/eureka-server/
