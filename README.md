@@ -1,5 +1,7 @@
 # eureka-server
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb51452469dd4349bdb87cc506a9963b)](https://app.codacy.com/manual/dave_33/eureka-server?utm_source=github.com&utm_medium=referral&utm_content=daveajlee/eureka-server&utm_campaign=Badge_Grade_Dashboard)
+
 A microservice is a small web service which ideally one fulfils a single task. It is therefore often necessary to request a microservice to perform a particular task. But where is the microservice located? This repository is a basic implementation of the Eureka Server for service discovery between microservices.
 
 ## Version 1.0.1 with Java 8 and Spring Boot 1.5
