@@ -32,7 +32,7 @@
 	<!-- Properties to use for version and other settings -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java.version>13</java.version>
+		<java.version>11</java.version>
 		<eureka.version>2.2.1.RELEASE</eureka.version>
 	</properties>
 
