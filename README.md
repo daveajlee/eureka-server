@@ -20,3 +20,7 @@ Running the Eureka Server as a Docker container:
 ## Version 2.0 with Java 13 and Spring Boot 2.23
 
 This version uses Java 13 and Spring Boot 2.23. It also offers Docker deployment via a Dockerfile. Alternatively the Docker image can be pulled from this url: <https://hub.docker.com/r/daveajlee/eureka-server/>
+
+## Version 3.0.1 with Java 11 LTS and Spring Boot 2.5.3
+
+This version uses Java 11 LTS and Spring Boot 2.5.3. It also offers Docker deployment via a Dockerfile. Alternatively the Docker image can be pulled from this url: <https://hub.docker.com/r/daveajlee/eureka-server/>
