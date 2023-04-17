@@ -4,7 +4,7 @@
 
 	<groupId>de.davelee</groupId>
 	<artifactId>eureka-server</artifactId>
-	<version>4.0.1-SNAPSHOT</version>
+	<version>4.0.1</version>
 	<packaging>jar</packaging>
 
 	<parent>
@@ -17,7 +17,7 @@
 	<scm>
         <connection>scm:git:https://github.com/daveajlee/eureka-server</connection>
         <url>https://github.com/daveajlee/eureka-server</url>
-        <tag>HEAD</tag>
+        <tag>v4.0.1</tag>
   	</scm>
   	
   	<!-- GitHub Packages -->
