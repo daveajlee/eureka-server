@@ -27,4 +27,4 @@ This version uses Java 11 LTS and Spring Boot 2.5.3. It also offers Docker deplo
 
 ## Version 4.0.1 with Java 17 LTS and Spring Boot 3.0.5
 
-This version uses Java 11 LTS and Spring Boot 2.5.3. It also offers Docker deployment via a Dockerfile. Alternatively the Docker image can be pulled from this url: <https://hub.docker.com/r/daveajlee/eureka-server/>
+This version uses Java 17 LTS and Spring Boot 3.0.5. It also offers Docker deployment via a Dockerfile. Alternatively the Docker image can be pulled from this url: <https://hub.docker.com/r/daveajlee/eureka-server/>
